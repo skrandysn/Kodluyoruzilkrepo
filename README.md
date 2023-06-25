@@ -20,3 +20,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://github.com/skrandysn/Kodluyoruzilkrepo/blob/main/LICENSE)
+
+![ProjeResim](file:///C:/Users/yasemin%20erkan/Desktop/Kodluyoruz%20ilk%20repo.jpg)
